@@ -1,0 +1,28 @@
+## Meaning of colnames ##
+AN_X: Animism scale
+AC_X: Anthropocentrism scale
+MR_X: Moral care for robos scale
+AM_X: Anthropomorphism scale
+RATE_WITCH: Typical image of robots
+SBS_X: Supernatural beliefs scale
+IRI_X: Interpersonal reactivity index
+  IRI_X_EC: Empathic concern subscale
+  IRI_X_PT: Perspective taking subscale
+EXP_X: Exposure to robot related media scale
+RHAB: Religious practice scale
+REL: Religion
+EDU: Education
+FNL: Funeral type
+Note: " * " represents inverted items
+
+
+## Coding ##
+# Gender
+Male, 男性: 0
+Felame, 女性: 1
+Others, その他: 2
+
+# Education
+0:その他 1:小学校 2:中学校 3:高等学校 4:専門学校 5:大学 6:大学院,
+0:Others 1:Elementary School / Primary School  2:Junior High School / Middle School 3.5:Vocational School / Technical College / Communication College (Associate Degree)  5:University / College / Undergraduate School (Bachelor Degree) 6: Graduate University / Professional School (Master's Degree, Doctoral Degree)
+
